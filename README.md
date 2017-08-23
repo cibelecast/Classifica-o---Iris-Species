@@ -9,4 +9,5 @@ A classificação de flores em suas respectivas espécies é um problema de clas
 
 
 Obs: Trabalho de Pós-Graduação Ciência de Dados e Big Data.
+Disciplina: Linguagem estatística
 Professor: Leonardo Villela
